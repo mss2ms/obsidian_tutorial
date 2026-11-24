@@ -11,10 +11,14 @@
             "id": "20478d56b9c9998d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 Basics/1 Structure.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 Structure"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,5 +189,20 @@
     }
   },
   "active": "20478d56b9c9998d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1 Basics/2 Right Click.md",
+    "1 Basics/1 Structure.md",
+    "README.md",
+    "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png",
+    "2 Setup/Drag a picture into sub pic page.md",
+    "1 Basics/pic/right_click.png",
+    "1 Basics/pic",
+    "1 Basics",
+    "2 Setup/pic/CleanShot 2026-11-23 at 9.40.56 PM.png",
+    "2 Setup/pic/CleanShot 2026-11-23 at 9.35.44 PM.png",
+    "2 Setup/pic",
+    "2 Setup/## Drag a picture into sub pic page.md",
+    "2 Setup",
+    "3 Community Plugin"
+  ]
 }
