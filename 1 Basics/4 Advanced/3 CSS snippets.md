@@ -1,6 +1,6 @@
 A **CSS snippet** is a small `.css` file that changes how Obsidian looks. You do not need a full theme: one snippet can change a single thing, such as the color of headings.
 
-Snippets live in the vault, in the folder `.obsidian/snippets/`. Which snippets are turned on is saved in `appearance.json` (see [[1 app.json and workspace.json]]).
+Snippets live in the vault, in the folder `.obsidian/snippets/`. Which snippets are turned on is saved in `appearance.json` (see [[2 app.json and workspace.json]]).
 
 ## The easy way: change CSS variables
 
