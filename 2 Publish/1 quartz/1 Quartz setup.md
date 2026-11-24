@@ -1,4 +1,3 @@
-# Quartz setup
 
 [Quartz](https://quartz.jzhao.xyz/) is a free tool that turns an Obsidian-style folder of Markdown into a website. It understands `[[wikilinks]]`, backlinks, tags, and shows a graph view and a file explorer, so the site feels like Obsidian.
 
