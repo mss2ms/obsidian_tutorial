@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5259713c2d3bddcd",
+        "id": "5c2064f85270d89a",
         "type": "tabs",
         "children": [
           {
-            "id": "20478d56b9c9998d",
+            "id": "97570f94c19e43c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Basics/1 Structure.md",
-                "mode": "source",
+                "file": "4 Advanced/3 CSS snippets.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Structure"
+              "title": "3 CSS snippets"
             }
           }
         ]
@@ -188,10 +188,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "20478d56b9c9998d",
+  "active": "97570f94c19e43c3",
   "lastOpenFiles": [
-    "1 Basics/2 Right Click.md",
+    "4 Advanced/3 CSS snippets.md",
+    "4 Advanced/1 app.json and workspace.json.md",
+    "4 Advanced/pic/CleanShot 2026-11-23 at 11.03.24 PM.png",
+    "4 Advanced/pic/CleanShot 2026-11-23 at 11.00.57 PM.png",
+    "4 Advanced/pic",
+    "4 Advanced/2 Philosophy of Obsidian.md",
+    "Untitled",
     "1 Basics/1 Structure.md",
+    "4 Advanced",
+    "1 Basics/2 Right Click.md",
     "README.md",
     "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png",
     "2 Setup/Drag a picture into sub pic page.md",

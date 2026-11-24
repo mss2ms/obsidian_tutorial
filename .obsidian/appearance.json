@@ -1,3 +1,9 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "tutorial-headings",
+    "hide-link-tabs",
+    "graph-focused-color",
+    "edit-mode-color"
+  ]
 }

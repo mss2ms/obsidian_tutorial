@@ -1,0 +1,9 @@
+/* Hide Backlinks tab in sidebars */
+.workspace-tab-header[data-type="backlink"] {
+    display: none !important;
+}
+
+/* Hide Outgoing Links tab in sidebars */
+.workspace-tab-header[data-type="outgoing-link"] {
+    display: none !important;
+}

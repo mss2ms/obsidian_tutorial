@@ -1,0 +1,7 @@
+.markdown-source-view {
+    border-left: 30px solid rgba(80, 120, 200, 0.5);
+}
+
+.markdown-reading-view {
+    border-left: 30px solid transparent;
+}

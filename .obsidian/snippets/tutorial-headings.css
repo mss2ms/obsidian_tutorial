@@ -1,0 +1,11 @@
+/* Example snippet for the "CSS snippets" tutorial */
+
+/* 1. Make level-1 headings orange (works in Reading view and Live Preview) */
+body {
+    --h1-color: #e67e22;
+}
+
+/* 2. Draw a gray line under level-2 headings (Reading view) */
+.markdown-rendered h2 {
+    border-bottom: 1px solid gray;
+}

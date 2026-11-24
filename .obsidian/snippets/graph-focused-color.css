@@ -1,0 +1,16 @@
+.graph-view.color-fill-focused {
+    color: #000000;   /* 원하는 진한 색으로 교체 (hex, rgb, rgba 다 가능) */
+}
+
+.graph-view.color-fill-unresolved {
+    color: #ebebeb;
+}
+
+/*  흰/검은 배경에서 거의 안 보이게 */
+.theme-light .graph-view.color-fill-unresolved {
+    color: #ebebeb;   
+}
+.theme-dark .graph-view.color-fill-unresolved {
+    color: #3a3a3a;
+}
+*/
