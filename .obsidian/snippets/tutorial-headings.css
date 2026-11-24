@@ -1,11 +1,9 @@
 /* Example snippet for the "CSS snippets" tutorial */
+/* Each line changes one Obsidian CSS variable. */
 
-/* 1. Make level-1 headings orange (works in Reading view and Live Preview) */
 body {
-    --h1-color: #e67e22;
-}
-
-/* 2. Draw a gray line under level-2 headings (Reading view) */
-.markdown-rendered h2 {
-    border-bottom: 1px solid gray;
+    --h1-color: #e67e22;    /* # Heading 1  -> orange */
+    --h2-color: #2980b9;    /* ## Heading 2 -> blue   */
+    --link-color: #27ae60;  /* [[links]]    -> green  */
+    --bold-color: #c0392b;  /* **bold**     -> red    */
 }
