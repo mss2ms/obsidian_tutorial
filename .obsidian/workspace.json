@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Basics/1 Start Up/1 Structure of Obsidian.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Structure of Obsidian"
+              "title": "index"
             }
           }
         ]
@@ -190,16 +190,17 @@
   },
   "active": "97570f94c19e43c3",
   "lastOpenFiles": [
+    "2 Publish/1 quartz/1 Quartz setup.md",
+    "index.md",
+    "1 Basics/1 Start Up/1 Structure of Obsidian.md",
     "README.md",
     "vault.png",
-    "1 Basics/1 Start Up/1 Structure of Obsidian.md",
     "2 Publish/1 Publishing Obsidian/1 What is publishing.md",
     "2 Publish/1 Publishing Obsidian",
     "1 Basics/1 Start Up/2 Right Click.md",
     "1 Basics/1 Start Up/pic/hide_ribbon.png",
     "1 Basics/1 Start Up/pic/right_click.png",
     "1 Basics/1 Start Up/1 Structure.md",
-    "2 Publish/1 quartz/1 Quartz setup.md",
     "3 Setup/Setup.md",
     "4 Community Plugin/Essential Tools.md",
     "5 Programming in Obsidian/Five Ways to Program.md",
