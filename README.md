@@ -1,10 +1,7 @@
-# obsidian_tutorial
-
-1. Boot up
+1. Clone the obsidian tutorial
 
 ```
 git clone https://github.com/mss2ms/obsidian_tutorial.git
 ```
 
-![[vault.png|200]]
 

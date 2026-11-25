@@ -1,4 +1,3 @@
-# What is publishing?
 
 Your Obsidian vault is a folder of Markdown (`.md`) files. A web browser cannot show `.md` files as a website. **Publishing** means turning those notes into HTML pages and putting them on a web server, so anyone with the link can read your wiki.
 

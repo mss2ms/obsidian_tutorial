@@ -92,4 +92,4 @@ Why copy instead of a symbolic link? `content/` must contain **real files** so t
 
 ## Next step
 
-Choose where to host the `public/` folder: [[0 What is publishing]].
+Choose where to host the `public/` folder: [[1 What is publishing]].
