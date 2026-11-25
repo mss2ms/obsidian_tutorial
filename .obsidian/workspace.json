@@ -11,14 +11,12 @@
             "id": "97570f94c19e43c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "file": "vault.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "vault"
             }
           }
         ]
@@ -188,15 +186,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0b51f77bfc4713f",
+  "active": "97570f94c19e43c3",
   "lastOpenFiles": [
+    "README.md",
+    "vault.png",
+    "1 Basics/1 Start Up/1 Structure of Obsidian.md",
     "2 Publish/1 Publishing Obsidian/1 What is publishing.md",
     "2 Publish/1 Publishing Obsidian",
-    "1 Basics/1 Start Up/1 Start Obsidian.md",
     "1 Basics/1 Start Up/2 Right Click.md",
     "1 Basics/1 Start Up/pic/hide_ribbon.png",
     "1 Basics/1 Start Up/pic/right_click.png",
-    "1 Basics/1 Start Up/pic/vault.png",
     "1 Basics/1 Start Up/1 Structure.md",
     "2 Publish/1 quartz/1 Quartz setup.md",
     "3 Setup/Setup.md",
@@ -231,7 +230,6 @@
     "4 Advanced/2 Philosophy of Obsidian.md",
     "1 Basics/1 Structure.md",
     "1 Basics/2 Right Click.md",
-    "README.md",
     "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png",
     "2 Setup/Drag a picture into sub pic page.md",
     "2 Setup/## Drag a picture into sub pic page.md"
