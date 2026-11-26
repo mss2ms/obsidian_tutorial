@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ace7854fc0f3d298",
+        "id": "5c2064f85270d89a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d647c589215f6fe",
+            "id": "97570f94c19e43c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Basics/1 Start Up/1 Structure of Obsidian.md",
+                "file": "5 Programming in Obsidian/Five Ways to Program.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Five Ways to Program"
+            }
+          },
+          {
+            "id": "a1f37624ffcc96f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Programming in Obsidian/JavaScript.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Structure of Obsidian"
+              "title": "JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,22 +92,6 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "96a4d3d147a4f9b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97570f94c19e43c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -204,29 +203,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "97570f94c19e43c3",
+  "active": "e0b51f77bfc4713f",
   "lastOpenFiles": [
-    "index.md",
-<<<<<<< HEAD
+    "5 Programming in Obsidian/Five Ways to Program.md",
+    "5 Programming in Obsidian/JavaScript.md",
     "2 Publish/1 quartz/1 Quartz setup.md",
+    "1 Basics/2 Setup/Drag a picture into sub pic page.md",
+    "2 Publish/2 github.io/2 GitHub Pages.md",
     "1 Basics/1 Start Up/1 Structure of Obsidian.md",
-=======
+    "index.md",
     "2 Publish/5 caddy multi-site/5 Many sites with Caddy.md",
     "2 Publish/5 caddy multi-site",
->>>>>>> 3663722 (2026-11-25 19:09:43 from *mini23)
     "README.md",
     "vault.png",
-    "1 Basics/1 Start Up/1 Structure of Obsidian.md",
     "2 Publish/1 Publishing Obsidian/1 What is publishing.md",
     "2 Publish/1 Publishing Obsidian",
     "1 Basics/1 Start Up/2 Right Click.md",
     "1 Basics/1 Start Up/pic/hide_ribbon.png",
     "1 Basics/1 Start Up/pic/right_click.png",
     "1 Basics/1 Start Up/1 Structure.md",
-    "2 Publish/1 quartz/1 Quartz setup.md",
     "3 Setup/Setup.md",
     "4 Community Plugin/Essential Tools.md",
-    "5 Programming in Obsidian/Five Ways to Program.md",
     "5 Programming in Obsidian",
     "4 Advanced/3 CSS snippets.md",
     "6 Obsidian Inner Workings/Q & A.md",
@@ -235,7 +232,6 @@
     "6 Obsidian Inner Workings",
     "2 Publish/4 deploy to servers/4 Deploy to servers.md",
     "2 Publish/3 docker/3 Docker and nginx.md",
-    "2 Publish/2 github.io/2 GitHub Pages.md",
     "2 Publish/4 deploy to servers",
     "2 Publish/3 docker",
     "2 Publish/2 github.io",
@@ -248,14 +244,12 @@
     "1 Basics/4 Advanced/2 Philosophy of Obsidian.md",
     "1 Basics/2 Setup/pic/CleanShot 2026-11-23 at 9.40.56 PM.png",
     "1 Basics/2 Setup/pic/CleanShot 2026-11-23 at 9.35.44 PM.png",
-    "1 Basics/2 Setup/Drag a picture into sub pic page.md",
     "4 Advanced/1 app.json and workspace.json.md",
     "4 Advanced/pic/CleanShot 2026-11-23 at 11.03.24 PM.png",
     "4 Advanced/pic/CleanShot 2026-11-23 at 11.00.57 PM.png",
     "4 Advanced/2 Philosophy of Obsidian.md",
     "1 Basics/1 Structure.md",
     "1 Basics/2 Right Click.md",
-    "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png",
-    "2 Setup/Drag a picture into sub pic page.md"
+    "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png"
   ]
 }

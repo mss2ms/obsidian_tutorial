@@ -1,0 +1,1 @@
+JavaScript 를 만들기 위해서는 TypeScript 를 컴파일 하는 것이 필요하다. 
