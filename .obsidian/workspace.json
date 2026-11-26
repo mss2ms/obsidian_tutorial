@@ -11,10 +11,14 @@
             "id": "4d647c589215f6fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 Basics/1 Start Up/1 Structure of Obsidian.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 Structure of Obsidian"
             }
           }
         ]
@@ -203,16 +207,23 @@
   "active": "97570f94c19e43c3",
   "lastOpenFiles": [
     "index.md",
+<<<<<<< HEAD
     "2 Publish/1 quartz/1 Quartz setup.md",
     "1 Basics/1 Start Up/1 Structure of Obsidian.md",
+=======
+    "2 Publish/5 caddy multi-site/5 Many sites with Caddy.md",
+    "2 Publish/5 caddy multi-site",
+>>>>>>> 3663722 (2026-11-25 19:09:43 from *mini23)
     "README.md",
     "vault.png",
+    "1 Basics/1 Start Up/1 Structure of Obsidian.md",
     "2 Publish/1 Publishing Obsidian/1 What is publishing.md",
     "2 Publish/1 Publishing Obsidian",
     "1 Basics/1 Start Up/2 Right Click.md",
     "1 Basics/1 Start Up/pic/hide_ribbon.png",
     "1 Basics/1 Start Up/pic/right_click.png",
     "1 Basics/1 Start Up/1 Structure.md",
+    "2 Publish/1 quartz/1 Quartz setup.md",
     "3 Setup/Setup.md",
     "4 Community Plugin/Essential Tools.md",
     "5 Programming in Obsidian/Five Ways to Program.md",
@@ -235,7 +246,6 @@
     "1 Basics/4 Advanced/pic",
     "1 Basics/4 Advanced/3 CSS snippets.md",
     "1 Basics/4 Advanced/2 Philosophy of Obsidian.md",
-    "1 Basics/4 Advanced",
     "1 Basics/2 Setup/pic/CleanShot 2026-11-23 at 9.40.56 PM.png",
     "1 Basics/2 Setup/pic/CleanShot 2026-11-23 at 9.35.44 PM.png",
     "1 Basics/2 Setup/Drag a picture into sub pic page.md",
@@ -246,7 +256,6 @@
     "1 Basics/1 Structure.md",
     "1 Basics/2 Right Click.md",
     "1 Basics/pic/CleanShot 2026-11-23 at 10.02.04 PM.png",
-    "2 Setup/Drag a picture into sub pic page.md",
-    "2 Setup/## Drag a picture into sub pic page.md"
+    "2 Setup/Drag a picture into sub pic page.md"
   ]
 }
